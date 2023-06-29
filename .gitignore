@@ -1,4 +1,3 @@
 node_modules/
-db/*
-db/.gitkeep
+db/*.json
 package-lock.json
